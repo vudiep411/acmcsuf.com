@@ -3,7 +3,3 @@
   publish = ".netlify/build"
   functions = "./netlify/functions-internal"
 
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
